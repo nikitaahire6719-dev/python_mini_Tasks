@@ -1,0 +1,6 @@
+1234
+nikita
+200000.0
+Deposited: 200000.0
+Withdrawn: 200000.0
+Deposited: 200000.0

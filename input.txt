@@ -1,0 +1,2 @@
+class book:
+    def __init__(self, book_id, title)clear,exit,,
